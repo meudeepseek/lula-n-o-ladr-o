@@ -1,7 +1,6 @@
 <table>
   <tr>
-    <td><img width="100%" alt="Lula" src="https://github.com/user-attachments/assets/a366eab2-e12b-4d91-a77e-e1ef679ea4fc![Uploading image.png…]()
-" /></td>
+    <img width="508" height="707" alt="Capturar" src="https://github.com/user-attachments/assets/1e2b919d-2513-46ff-bf27-27fecfa0c9d2" />
   </tr>
 </table>
 
